@@ -9,14 +9,15 @@ We are excited to have you participate and we hope that you come away from them 
 
 There 2 tasks through this internship must completed in order to be credintal graduate.
 
-**1. Data Engineering**
+# Task 1
+1. **Data Engineering**
 Using data engineering to combine full-flight engine data, part manufacturing data, airport location data to create a data lake our analysts can use.
 
 **Skills Learned:**
 
 Postgres/SQLData, orchestration & transformation, Critical Thinking.
 
-** 2: Data Visualization**
+2. **Data Visualization**
 Use data to create a run chart and KPI (key performance indicators) tables based off of simulated Aviation data.
 
 **Skills Learned:**
