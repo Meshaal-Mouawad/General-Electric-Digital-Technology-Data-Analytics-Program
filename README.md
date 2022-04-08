@@ -17,6 +17,8 @@ Using data engineering to combine full-flight engine data, part manufacturing da
 
 Postgres/SQLData, orchestration & transformation, Critical Thinking.
 
+# Task 2
+
 2. **Data Visualization**
 Use data to create a run chart and KPI (key performance indicators) tables based off of simulated Aviation data.
 
