@@ -36,7 +36,8 @@ Use data to create a run chart and KPI (key performance indicators) tables based
 
 Run Chart, Data storytelling through visualizations, Business Intelligence (BI).
 
-General Electric logo
+![image](https://user-images.githubusercontent.com/72484101/164782478-52a88604-dbea-4b88-a6a8-4dc9f6b76a18.png)
+
 GE Explorer Series:
 Digital Technology Data Analytics Program
 Providing you with valuable work samples to explore careers.
