@@ -20,7 +20,9 @@ There 2 tasks through this internship must completed in order to be credintal gr
 1. **Data Engineering**
 Using data engineering to combine full-flight engine data, part manufacturing data, airport location data to create a data lake our analysts can use.
 
-![image](https://user-images.githubusercontent.com/72484101/164781701-e8d8f4ce-c4f3-4d4f-bba9-db74fc657081.png)
+
+<img src="https://user-images.githubusercontent.com/72484101/164781701-e8d8f4ce-c4f3-4d4f-bba9-db74fc657081.png" width="30" height="26.5"/>
+
 **Skills Learned:**
 
 Postgres/SQLData, orchestration & transformation, Critical Thinking.
@@ -30,8 +32,8 @@ Postgres/SQLData, orchestration & transformation, Critical Thinking.
 2. **Data Visualization**
 Use data to create a run chart and KPI (key performance indicators) tables based off of simulated Aviation data.
 
+<img src="https://user-images.githubusercontent.com/72484101/164781701-e8d8f4ce-c4f3-4d4f-bba9-db74fc657081.png" width="30" height="26.5"/>
 
-![image](https://user-images.githubusercontent.com/72484101/164781799-ae6d0b92-54b6-4f4d-9e9f-3adac2e2c4ef.png)
 **Skills Learned:**
 
 Run Chart, Data storytelling through visualizations, Business Intelligence (BI).
