@@ -1,5 +1,12 @@
-# general-Electric-Digital-Technology-Data-Analytics-Program
+![image](https://user-images.githubusercontent.com/72484101/164780552-717df4ac-67b5-4374-86ce-03b6e4bdc7df.png)
+
+# Digital Technology Data Analytics Program
+
 This is an internship I have completed at General Electric. 
+
+Digital Technology Data Analytics Program is Providing you with valuable work samples to explore careers.
+
+
 # About
 In this program you will combine and visualize data to drive meaningful insights using enterprise-grade technology. You'll have work samples for both data engineering and data visualization to assist the GE Aviation team to make decisions based off real time data.
 
