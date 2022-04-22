@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/72484101/164780552-717df4ac-67b5-4374-86ce-03b6e4bdc7df.png)
+<img src="https://user-images.githubusercontent.com/72484101/164780552-717df4ac-67b5-4374-86ce-03b6e4bdc7df.png" width="118.734" height="120" />
 
 # Digital Technology Data Analytics Program
 
@@ -36,7 +36,7 @@ Use data to create a run chart and KPI (key performance indicators) tables based
 
 Run Chart, Data storytelling through visualizations, Business Intelligence (BI).
 
-![image](https://user-images.githubusercontent.com/72484101/164782478-52a88604-dbea-4b88-a6a8-4dc9f6b76a18.png)
+<img src="https://user-images.githubusercontent.com/72484101/164782478-52a88604-dbea-4b88-a6a8-4dc9f6b76a18.png" width="118.734" height="120" />
 
 GE Explorer Series:
 Digital Technology Data Analytics Program
